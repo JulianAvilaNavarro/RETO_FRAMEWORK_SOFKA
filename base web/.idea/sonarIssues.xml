@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/models/practiceform/PracticeFormModelSignin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/questions/practiceform/ContactUsErrorQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/questions/practiceform/ContactUsQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/questions/practiceform/SigninFailQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/questions/practiceform/SigninQuestion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/task/practiceformcontactus/FillSigninFailLogin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/task/practiceformcontactus/FillSigninInfoForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/userinterfaces/practiceform/FillSigninInfoForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/userinterfaces/practiceform/PracticeFormSignin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/test/java/co/com/sofka/runner/practiceform/PracticeFromTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/test/java/co/com/sofka/stepdefinition/practiceform/PracticeFormStepDefinitionSignIn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prueba/SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/task/practiceform/FillSigninInfoForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prueba/SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/main/java/co/com/sofka/userinterfaces/practiceform/PracticeFormSignin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prueba/SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/test/java/co/com/sofka/runner/practiceform/PracticeFromTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prueba/SCREENPLAY WEB/RETO_SCREENPLAY_WEBUI/src/test/resources/serenity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/CompraCarritoDressesController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/CompraCarritoWomen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/CompraCarritoWomenController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/ConfirmacionCompraCarritoController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/ConfirmacionContactUsOkController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/ConfirmationContactUsFailController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/ContactUsCustomerServiceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/ContactUsPageWebController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/ContactUsWebMasterController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/controllers/openwebpage/ContactUsCustomerServiceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/models/CompraCarrito.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/models/ContactUs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/page/CompraCarrito.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/page/CompraCarritoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/page/ConfirmacionCarritoCompraPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/page/ConfirmacionContactUsOkPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/page/ConfirmationContactUsFailPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/page/ContactUsPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/page/LandingPageContactUs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/runners/CarritoYContactUsTestRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/stepdefinition/CarritoStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/stepdefinition/ContactUsStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/client/webproject/test/stepdefinition/CrearNuevaCuentaStepsDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/features/carrito.Feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/features/contactus.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/features/crearNuevaCuenta.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/properties/configuration.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
